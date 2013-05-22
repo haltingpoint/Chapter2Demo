@@ -1,0 +1,4 @@
+Status of where I am in the RailsTutorial.org book
+
+Chapter 2
+http://ruby.railstutorial.org/chapters/a-demo-app
